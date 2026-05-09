@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ravirdp.github.io/bengalurubookkeeping.github.io/sitemap.xml
